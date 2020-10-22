@@ -13,5 +13,6 @@ This really sparked my interest in the technology sector so upon graduation, i e
 gave me the foundational knowledge in topics such as Cloud Computing. Though this,I was able to get an AWS certificaion
 and i knew i wanted to pursue a career in the technology sector so i did some research and came across DevOps. 
 I was drawn to this subject as it focusses on topics i had briefly covered previosly but I did not get the chance
-to fully explore. 
+to fully explore. I was pleased to learn that Sparta Global prvides us with full training becasue I may not have 
+the strongest background in this field, but i am a fast learner.
 
